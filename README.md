@@ -1,80 +1,42 @@
-🚀 AI/ML Advanced Internship Projects
-<p align="center"> <img src="https://img.shields.io/badge/AI-Projects-blue?style=for-the-badge&logo=artificial-intelligence" /> <img src="https://img.shields.io/badge/Machine%20Learning-Pipeline-green?style=for-the-badge&logo=python" /> <img src="https://img.shields.io/badge/NLP-Transformers-orange?style=for-the-badge&logo=huggingface" /> <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" /> </p>
-🧠 Overview
+AI/ML Advanced Internship Tasks
+This repository includes a set of advanced Artificial Intelligence and Machine Learning projects completed during my internship. Each task focuses on the practical application of modern techniques such as machine learning pipelines, natural language processing, and conversational AI systems.
 
-This repository showcases a series of advanced AI and Machine Learning projects developed during my internship.
-It highlights my ability to build end-to-end intelligent systems, covering Natural Language Processing, predictive modeling, and conversational AI.
-
-📌 Featured Projects
-🔹 News Topic Classifier (BERT)
-
-Transformer-based NLP system for automated news categorization
-
-Fine-tuned DistilBERT on AG News dataset
-Achieved strong performance using Accuracy & F1-score
-Built an interactive web interface using Gradio
-Real-time prediction capability
-🔹 Customer Churn Prediction Pipeline
-
-End-to-end ML system for predicting customer retention
-
-Data preprocessing & feature engineering
-Implemented Logistic Regression & Random Forest
-Hyperparameter optimization using GridSearchCV
-Structured and scalable ML pipeline
-🔹 Context-Aware Chatbot (RAG)
-
-Intelligent chatbot using Retrieval-Augmented Generation
-
-Integrated FAISS for vector-based document retrieval
+📌 Projects Overview
+🔹 Task 1: News Topic Classifier (BERT)
+Developed a text classification model using a transformer-based approach
+Fine-tuned DistilBERT on the AG News dataset
+Evaluated model performance using accuracy and F1-score
+Built an interactive application using Gradio
+🔹 Task 2: Customer Churn Prediction Pipeline
+Designed a complete end-to-end machine learning pipeline
+Performed data preprocessing, feature engineering, and model training
+Implemented Logistic Regression and Random Forest models
+Optimized performance using GridSearchCV for hyperparameter tuning
+🔹 Task 4: Context-Aware Chatbot (RAG)
+Developed a chatbot based on Retrieval-Augmented Generation (RAG)
+Used FAISS for efficient document retrieval
 Generated responses using a language model
-Maintained conversational memory
-Improved response relevance with contextual awareness
-🛠️ Tech Stack
-Category	Tools
-Programming	Python
-ML	Scikit-learn
-NLP	Hugging Face Transformers
-Deep Learning	PyTorch
-LLM Apps	LangChain
-Vector DB	FAISS
-UI	Gradio
-📂 Repository Structure
-AI-ML-Internship-Tasks-phase2/
-│
-├── Task1_BERT_News_Classifier/
-├── Task2_Churn_Pipeline/
-├── Task4_Chatbot_LangChain/
-└── README.md
-📊 Key Highlights
+Maintained conversational context for improved interaction
+🛠️ Technologies Used
+Python
+Scikit-learn
+Hugging Face Transformers
+PyTorch
+LangChain
+FAISS
+Gradio
+📁 Repository Structure
+AI-ML-Internship-Tasks-phase2/ │ ├── Task1_BERT_News_Classifier/ ├── Task2_Churn_Pipeline/ ├── Task4_Chatbot_LangChain/ └── README.md
 
-✔ Built scalable ML pipelines
-✔ Applied transformer-based NLP models
-✔ Developed real-world AI applications
-✔ Worked with industry-standard tools
+🚀 Key Learnings
+Built scalable and structured machine learning pipelines
+Applied transformer-based models for NLP tasks
+Implemented retrieval-based conversational AI systems
+Gained practical experience with real-world AI tools and frameworks
+⚠️ Notes
+Large model files are not included due to GitHub size limitations
+Models can be reproduced using the provided notebooks
+Some tasks were executed using Google Colab (GPU support)
+🧠 Conclusion
+This repository highlights the practical application of modern AI/ML concepts and demonstrates the ability to develop complete, end-to-end intelligent systems.
 
-⚠️ Important Notes
-Large model files are excluded due to GitHub size limitations
-Projects can be reproduced using provided notebooks
-Some tasks were executed on Google Colab (GPU support)
-🎯 Why This Repository Stands Out
-
-This project is not just about models — it demonstrates:
-
-Problem-solving approach
-End-to-end system design
-Practical AI implementation
-⭐ Support
-
-If you find this project helpful, consider giving it a ⭐ on GitHub!
-
-👨‍💻 Author
-
-Meeran Pathan
-Software Engineering Student | AI/ML Enthusiast
-
-💡 Optional Add-ons (tell me if you want these next):
-🔥 GitHub profile banner image (custom design)
-📸 Demo screenshots / GIFs section
-🌐 Live project deployment section
-📄 README for each individual task
